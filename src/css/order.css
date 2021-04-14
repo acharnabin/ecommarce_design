@@ -1,0 +1,30 @@
+.order-container{
+    padding: 10px;
+    margin: 5px;
+}
+.order{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-bottom: 5px;
+
+}
+
+.order-upper{
+    display: flex;
+   
+}
+.order-upper>img{
+    height:100px;
+    width: 60px;
+}
+.order-title{
+    padding:5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.order-title>p{
+    font-size: 15px;
+    font-weight: 400;
+}

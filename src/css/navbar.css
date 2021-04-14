@@ -1,0 +1,58 @@
+.navbar-brand{
+  padding: 2px;
+ 
+}
+.nav-search{
+  display: flex;
+  flex:1;
+}
+
+.nav-link{
+  display: flex;
+  flex-direction:row;
+  justify-content: space-evenly;
+  
+}
+
+.nav-link{
+  font-size:15px;
+  font-weight: 500;
+  color:black;
+}
+.nav-link:hover{
+  color: green;
+}
+.navbar-brand{
+  color:green;
+
+}
+.nav-item:active{
+  color: aqua;
+}
+.header-top{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+.header-top-item .nav-link{
+ 
+  font-size: 12px;
+}
+.header-lower{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.nav-item-lower .nav-link{
+  color:black;
+  font-size: 12px;
+  font-weight: 500;
+}
+.nav-link:hover{
+  
+  box-shadow: inset;
+}
+
+

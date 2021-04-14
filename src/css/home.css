@@ -1,0 +1,33 @@
+.home{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1500px;
+  }
+  .home_img {
+    
+    max-width: 100%;
+    
+  }
+  .home_row{
+    display: flex;
+    z-index: 1;
+    margin-left:5px;
+    margin-right:5px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none; 
+  }
+  .home_row::-webkit-scrollbar{
+    display: none;
+   
+  }
+  #banner{
+    object-fit: contain;
+    width:100%;
+    
+  }
+  
