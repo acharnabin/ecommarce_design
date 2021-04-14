@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecommarce_design/static/css/main.a7a37dc8.chunk.css",
-    "main.js": "/ecommarce_design/static/js/main.3e64760d.chunk.js",
-    "main.js.map": "/ecommarce_design/static/js/main.3e64760d.chunk.js.map",
+    "main.js": "/ecommarce_design/static/js/main.e51273ac.chunk.js",
+    "main.js.map": "/ecommarce_design/static/js/main.e51273ac.chunk.js.map",
     "runtime-main.js": "/ecommarce_design/static/js/runtime-main.6e43fb25.js",
     "runtime-main.js.map": "/ecommarce_design/static/js/runtime-main.6e43fb25.js.map",
     "static/css/2.ca9b54aa.chunk.css": "/ecommarce_design/static/css/2.ca9b54aa.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.ca9b54aa.chunk.css",
     "static/js/2.5ff40a7b.chunk.js",
     "static/css/main.a7a37dc8.chunk.css",
-    "static/js/main.3e64760d.chunk.js"
+    "static/js/main.e51273ac.chunk.js"
   ]
 }
