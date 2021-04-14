@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ecommarce_design/static/css/main.a7a37dc8.chunk.css",
+    "main.js": "/ecommarce_design/static/js/main.3e64760d.chunk.js",
+    "main.js.map": "/ecommarce_design/static/js/main.3e64760d.chunk.js.map",
+    "runtime-main.js": "/ecommarce_design/static/js/runtime-main.6e43fb25.js",
+    "runtime-main.js.map": "/ecommarce_design/static/js/runtime-main.6e43fb25.js.map",
+    "static/css/2.ca9b54aa.chunk.css": "/ecommarce_design/static/css/2.ca9b54aa.chunk.css",
+    "static/js/2.5ff40a7b.chunk.js": "/ecommarce_design/static/js/2.5ff40a7b.chunk.js",
+    "static/js/2.5ff40a7b.chunk.js.map": "/ecommarce_design/static/js/2.5ff40a7b.chunk.js.map",
+    "static/js/3.cd2422a1.chunk.js": "/ecommarce_design/static/js/3.cd2422a1.chunk.js",
+    "static/js/3.cd2422a1.chunk.js.map": "/ecommarce_design/static/js/3.cd2422a1.chunk.js.map",
+    "index.html": "/ecommarce_design/index.html",
+    "static/css/2.ca9b54aa.chunk.css.map": "/ecommarce_design/static/css/2.ca9b54aa.chunk.css.map",
+    "static/css/main.a7a37dc8.chunk.css.map": "/ecommarce_design/static/css/main.a7a37dc8.chunk.css.map",
+    "static/js/2.5ff40a7b.chunk.js.LICENSE.txt": "/ecommarce_design/static/js/2.5ff40a7b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/ecommarce_design/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e43fb25.js",
+    "static/css/2.ca9b54aa.chunk.css",
+    "static/js/2.5ff40a7b.chunk.js",
+    "static/css/main.a7a37dc8.chunk.css",
+    "static/js/main.3e64760d.chunk.js"
+  ]
+}
